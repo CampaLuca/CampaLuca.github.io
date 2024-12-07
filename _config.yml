@@ -142,7 +142,7 @@ sass:
 
 # Build settings
 # theme: minima
-gems:
+plugins:
   - jekyll/scholar
 
 # Markdown
