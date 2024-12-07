@@ -24,7 +24,7 @@ email: luca.campa@uibk.ac.at
 description: > # this means to ignore newlines until "baseurl:"
   I'm a cryptography researcher at the University of Innsbruck. My interest is mainly on design and cryptanalysis of symmetric primitives, with major focus on the application of algebraic geometry in the cryptographic setting.
 footer_text: >
-  Build with Jekyll, Gradfolio and Al-folio.
+  Built with Jekyll, Gradfolio and Al-folio.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://CampaLuca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 keywords: cryptography, Luca, Campa, PhD, algebraic, cryptanalysis
