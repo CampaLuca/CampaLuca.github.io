@@ -9,7 +9,6 @@ nav_order: 4 # comment in case you don't want this page
 
 {% if site.github_username %}
 
-## GitHub users
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
     {% include repository/repo_user.liquid username=site.github_username %}
@@ -20,7 +19,7 @@ nav_order: 4 # comment in case you don't want this page
 
 {% if site.github_repos %}
 
-## GitHub Repositories
+## Repositories
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.github_repos %}
