@@ -234,8 +234,14 @@ body.sticky-bottom-footer {
   padding-bottom: 0;
 }
 
+@media (max-width: 576px) {
+  /* override stickyness so that the navigation does not follow scrolling */
+  .container {
+    margin-top:20px;
+    max-width: $max-content-width;
+  }
+}
 .container {
-  margin-top:20px;
   max-width: $max-content-width;
 }
 
