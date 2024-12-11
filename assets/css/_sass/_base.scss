@@ -91,18 +91,16 @@ $max-content-width: 100px !default;
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-  #light-toggle-system {
-    padding-left: 10px;
-    padding-top: 12px;
-    display: block;
-  }
+  
 
   #light-toggle-dark {
     display: none;
   }
 
   #light-toggle-light {
-    display: none;
+    padding-left: 10px;
+    padding-top: 12px;
+    display: block;
   }
 
   .repo-img-light {
@@ -169,9 +167,7 @@ html[data-theme="dark"] {
 }
 
 html[data-theme-setting="dark"] {
-  #light-toggle-system {
-    display: none;
-  }
+ 
 
   #light-toggle-dark {
     padding-left: 10px;
@@ -190,9 +186,7 @@ html[data-theme-setting="dark"] {
 }
 
 html[data-theme-setting="light"] {
-  #light-toggle-system {
-    display: none;
-  }
+
 
   #light-toggle-dark {
     display: none;
