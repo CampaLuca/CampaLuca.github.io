@@ -36,6 +36,7 @@ keywords: cryptography, Luca, Campa, PhD, algebraic, cryptanalysis
 navbar_fixed: true
 footer_fixed: true
 bib_search: true
+enable_darkmode: true
 
 # -----------------------------------------------------------------------------
 # Width of your website 
