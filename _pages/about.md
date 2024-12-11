@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 
-subtitle: Cryptography PhD at University of Innsbruck
+subtitle: Cryptography PhD Student at University of Innsbruck
 
 profile:
   align: right
