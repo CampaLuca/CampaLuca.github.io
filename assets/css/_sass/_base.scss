@@ -210,7 +210,7 @@ html[data-theme-setting="light"] {
  ******************************************************************************/
 
  body {
-  padding-bottom: 80px;
+  padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 
@@ -220,13 +220,13 @@ html[data-theme-setting="light"] {
   h4,
   h5,
   h6 {
-    scroll-margin-top: 40px;
+    scroll-margin-top: 66px;
   }
 }
 
 body.fixed-top-nav {
   // Add some padding for the nav-bar.
-  padding-top: 40px;
+  padding-top: 56px;
 }
 
 body.sticky-bottom-footer {
@@ -234,20 +234,12 @@ body.sticky-bottom-footer {
   padding-bottom: 0;
 }
 
-@media (max-width: 576px) {
-  /* override stickyness so that the navigation does not follow scrolling */
-  .container {
-    margin-top:20px;
-    max-width: $max-content-width;
-  }
-}
 .container {
   max-width: $max-content-width;
 }
 
 // Profile
 .profile {
-
   padding: 10px;
   img {
     width: 100%;
