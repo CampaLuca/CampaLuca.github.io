@@ -229,6 +229,19 @@ body.fixed-top-nav {
   padding-top: 56px;
 }
 
+
+@media (max-width: 576px) {
+  body.fixed-top-nav {
+    // Add some padding for the nav-bar.
+    padding-top: 26px;
+  }
+}
+
+.content {
+  margin-bottom: 50px;
+}
+
+
 body.sticky-bottom-footer {
   // Remove padding below footer.
   padding-bottom: 0;
@@ -751,6 +764,8 @@ footer.sticky-bottom {
     }
   }
 }
+
+
 
 .table-cv-map {
   background-color: transparent;
