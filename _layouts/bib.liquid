@@ -107,6 +107,9 @@
     <!-- Journal/Book title and date -->
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
+    {% if thesis contains entry.type %}
+      {% capture entrytype %}<em>Supervisors: {{ entry.supervisors }}</em></br>{% endcapture %}
+    {% endif %}
     {% if entry.type == 'article' %}
       {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
     {% elsif proceedings contains entry.type %}
