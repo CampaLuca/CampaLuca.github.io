@@ -1,4 +1,4 @@
-<div class="rounded-social-buttons" style="margin-top: 10px">
+<div class="rounded-social-buttons">
 
 {%- if site.email -%}
 <a title="{{ _locale_string_email }}"
@@ -77,6 +77,42 @@ class="social-button instagram" itemprop="sameAs"
 href="https://www.instagram.com/{{ site.instagram }}"
 target="_blank">
 <i class="fab fa-instagram"></i>
+</a>
+{%- endif -%}
+
+{%- if site.google_scholar -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Google Scholar' }}"
+class="social-button instagram" itemprop="sameAs"
+href="https://scholar.google.com/citations?user={{ site.google_scholar }}" 
+target="_blank">
+<i class="ai ai-google-scholar"></i>
+</a>
+{%- endif -%}
+
+{%- if site.youtube_id -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Google Scholar' }}"
+class="social-button instagram" itemprop="sameAs"
+href="https://youtube.com/@{{ site.youtube_id }}"
+target="_blank">
+<i class="fa-brands fa-youtube"></i>
+</a>
+{%- endif -%}
+
+{%- if site.dblp -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'dblp' }}"
+class="social-button instagram" itemprop="sameAs"
+href="https://dblp.org/pid/{{ site.dblp }}" 
+target="_blank">
+<i class="ai ai-dblp"></i>
+</a>
+{%- endif -%}
+
+{%- if site.arxiv -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'arxiv' }}"
+class="social-button instagram" itemprop="sameAs"
+href="https://scholar.google.com/citations?user={{ site.arxiv }}" 
+target="_blank">
+<i class="ai ai-arxiv"></i>
 </a>
 {%- endif -%}
 

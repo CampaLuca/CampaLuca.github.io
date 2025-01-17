@@ -61,6 +61,11 @@ github_repos:
   - CampaLuca/Rust-Cryptography-Math-library
   - CampaLuca/ForkAES-5-plus-2-rounds-reflective-trails-attack # here you can put a list of  your selected repositories
 
+
+# -----------------------------------------------------------------------------
+# Social media settings
+socials_on_footer: false
+enable_navbar_social_and_below_image: true
 # -----------------------------------------------------------------------------
 # Social Media links (put only the usernames)
 ### Comment the social you don't want to add to your footer
@@ -74,7 +79,10 @@ github: "CampaLuca"
 # quora: "#"
 # instagram: "#"
 # facebook: "#"
-
+# google_scholar: "#"
+# arxiv: "#"
+# dblp: "#"
+# youtube_id: "#"
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
