@@ -12,5 +12,5 @@ At the University of Udine, Italy, I taught applied cryptography in the context 
 
 
 At University of Innsbruck, Austria:
-- Scheduled for Summer term 2024/2025: **Applied cryptography**
+- Summer '25: Applied Cryptography (co-taught with Arnab Roy)
 
