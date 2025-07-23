@@ -10,7 +10,7 @@ profile:
   image: "P_Luca_Campa.jpg"
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ICT 2W02</p>
+    <p>ICT 3N12</p>
     <p>Technikerstrasse, 21a</p>
     <p>Security and Privacy Lab, University of Innsbruck</p> 
 
