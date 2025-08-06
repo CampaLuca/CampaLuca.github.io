@@ -35,3 +35,7 @@ In October 18th, 2024 I received the MSc Double Degree in Artificial Intelligenc
 In 2020 I was a finalist in the CyberChallenge.IT competition with the University of Udine. After that project, I funded [MadrHacks](https://www.madrhacks.org/), the CTF Team of the University of Udine, which is currently one of the [best CTF teams in Italy and worldwide](https://ctftime.org/team/114509). 
 
 
+### Scientific activities
+- **Program committees** [SecITC 2025](https://secitc.eu/)
+- **External reviewer** Asiacrypt 2025
+- **CTF organizer** [snakeCTF](https://snakectf.org/)
