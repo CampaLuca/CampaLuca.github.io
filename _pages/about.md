@@ -42,7 +42,7 @@ In 2020 I was a finalist in the CyberChallenge.IT competition with the Universit
 
 
 ### Invited Talks
-- **[Digital Security Festival](https://www.digitalsecurityfestival.it/)**, Feletto Umberto, Udine, Italy, 23/10/2023
+- [**Digital Security Festival**](https://www.digitalsecurityfestival.it/), Feletto Umberto, Udine, Italy, 23/10/2023
 <!-- - **[SymCrypt 2025](https://www.linkedin.com/posts/de-cifris-associazione-nazionale-8274501a5\_symdmath-activity-7315467677634912256-kRUw?utm\_source=share&utm\_medium=member\_desktop&rcm=ACoAACmhxGoBAAlhkfr-EtY94jkwSqUMpcCE6Hc)**, Title: *Groebner basis analysis and shape lemma: Algebraic cryptanalysis of Anemoi*, University of Trento, Trento, Italy, 11/04/2025
 - **[Digital Security Festival](https://www.digitalsecurityfestival.it/)**, Udine, Italy, 26/09/2025
 - **[Cryptanalysis of Algebraic Hash Functions](https://www.cahf-poseidon.info/)**, Title: *A Groebner basis for Poseidon and its cryptanalytic impact*, , Luxembourg, 23/10/2025 
