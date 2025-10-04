@@ -240,7 +240,9 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
-// Profile
+
+@media (min-width: 576px) {
+  // Profile
 .profile {
   padding: 10px;
   img {
@@ -248,8 +250,10 @@ body.sticky-bottom-footer {
     
   }
 }
+}
 
-@media (max-width: 700px) {
+
+@media (max-width: 576px) {
   body.fixed-top-nav {
     // Add some padding for the nav-bar.
     padding-top: 26px;
