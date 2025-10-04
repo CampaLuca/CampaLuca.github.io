@@ -12,5 +12,6 @@ At the University of Udine, Italy, I taught applied cryptography in the context 
 
 
 At University of Innsbruck, Austria:
-- Summer '25: Applied Cryptography (co-taught with Arnab Roy)
+- SS25: Applied Cryptography (co-taught with Arnab Roy)
+- WS25: Applied Cryptography (co-taught with Arnab Roy)
 
