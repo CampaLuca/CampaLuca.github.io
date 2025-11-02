@@ -10,9 +10,9 @@ profile:
   image: "P_Luca_Campa.jpg"
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ICT 3N12</p>
+    <p>ICT 3M12</p>
     <p>Technikerstrasse, 21a</p>
-    <p>Security and Privacy Lab, University of Innsbruck</p> 
+    <p>Computational Logic research group, University of Innsbruck</p> 
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
