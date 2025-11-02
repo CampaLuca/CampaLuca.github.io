@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page -->
 ---
 
-I am a Cryptography PhD student at the University of Innsbruck (Department of Computer Science).
+I am a doctoral researcher in Cryptography at the University of Innsbruck (Department of Computer Science).
 
 
 **Research interest**
