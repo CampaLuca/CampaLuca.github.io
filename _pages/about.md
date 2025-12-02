@@ -37,7 +37,7 @@ In 2020 I was a finalist in the CyberChallenge.IT competition with the Universit
 
 ### Scientific activities
 - **Program committees** [SecITC 2025](https://secitc.eu/)
-- **External reviewer** Asiacrypt 2025
+- **External reviewer** Eurocrypt 2026, Asiacrypt 2025
 - **CTF organizer** [snakeCTF](https://snakectf.org/)
 
 
