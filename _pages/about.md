@@ -43,7 +43,7 @@ In 2020 I was a finalist in the CyberChallenge.IT competition with the Universit
 
 ### Invited Talks
 
-- - **[Digital Security Festival](https://www.digitalsecurityfestival.it/)**, Title: *Crittografia in pratica: dai passi incerti alle soluzioni del futuro*, Lomazzo (Como), Italy, 12/11/2025
+- **[Digital Security Festival](https://www.digitalsecurityfestival.it/)**, Title: *Crittografia in pratica: dai passi incerti alle soluzioni del futuro*, Lomazzo (Como), Italy, 12/11/2025
 - **[RISC Colloquium](https://mathematik.jku.at/mathe_linkTalks.shtml)**, Title: *Solving Iterative Polynomial System with Groebner basis and Algebraic Cryptanalysis*, Johannes Kepler University, RISC, Linz, 27/10/2025 
 - **[Cryptanalysis of Algebraic Hash Functions](https://www.cahf-poseidon.info/)**, Title: *A Groebner basis for Poseidon and its cryptanalytic impact*, Luxembourg, 23/10/2025 
 - **[Digital Security Festival](https://www.digitalsecurityfestival.it/)**, Udine, Italy, 26/09/2025
