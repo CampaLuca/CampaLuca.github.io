@@ -17,5 +17,4 @@ At University of Innsbruck, Austria:
 - SS26: Logic PS
 
 At University of Klagenfurt, Austria:
-- SS26: Network Security in *Introduction to Cybersecurity*
-
+- SS26: Network Security in *Introduction to Cybersecurity* ([materials](/teaching/network-security/))
