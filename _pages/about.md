@@ -32,8 +32,7 @@ Other than a PhD student, I'm a cryptography and OT security consultant since 3 
 In October 18th, 2024 I received the MSc Double Degree in Artificial Intelligence and Cybersecurity at the University of Udine (Italy) and University of Klagenfurt (Austria). My master's thesis *Algebraic cryptanalysis and its application to Arithmetization Oriented primitives* was developed during an internship at the University of Innsbruck under the supervision of Professors [Arnab Roy](https://byt3bit.github.io/), [Marino Miculan](https://marino.miculan.org/) and [Elisabeth Oswald](https://scholar.google.com/citations?user=1k_rBAkAAAAJ&hl=en). In 2021, I received the BSc in Computer Science at the University of Udine. 
 
 **Projects and Awards**
-In 2020 I was a finalist in the CyberChallenge.IT competition with the University of Udine. After that project, I funded [MadrHacks](https://www.madrhacks.org/), the CTF Team of the University of Udine, which is currently one of the [best CTF teams in Italy and worldwide](https://ctftime.org/team/114509). 
-
+In 2020 I was a finalist in the CyberChallenge.IT competition with the University of Udine. After that project, I co-funded [MadrHacks](https://www.madrhacks.org/), the CTF Team of the University of Udine.
 
 ### Scientific activities
 - **Program committees** [SecITC 2025](https://secitc.eu/)
@@ -54,4 +53,3 @@ In 2020 I was a finalist in the CyberChallenge.IT competition with the Universit
 ### Contact
 
 The best way to reach me is by email: Firstname [dot] Lastname [at] uibk [dot] ac [dot] at
-(where “Firstname” and “Lastname” are my actual first and last name)
