@@ -51,4 +51,7 @@ In 2020 I was a finalist in the CyberChallenge.IT competition with the Universit
 - **[Digital Security Festival](https://www.digitalsecurityfestival.it/)**, Feletto Umberto, Udine, Italy, 23/10/2023
 
 
+### Contact
 
+The best way to reach me is by email: Firstname [dot] Lastname [at] uibk [dot] ac [dot] at
+(where “Firstname” and “Lastname” are my actual first and last name)
