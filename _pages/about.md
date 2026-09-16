@@ -38,7 +38,7 @@ In 2020 I was a finalist in the CyberChallenge.IT competition with the Universit
 - **Program committees** [SecITC 2025](https://secitc.eu/)
 - **External reviewer** ICTCS 2026, ITP 2026, Crypto 2026, Eurocrypt 2026, Asiacrypt 2025
 - **CTF organizer** [snakeCTF](https://snakectf.org/)
-- **Summer school organizer** [ALPEC 2026](https://alpec-school.github.io/) - Registration Closed -- See you in Trento!
+- **Summer school organizer** [ALPEC 2026](https://alpec-school.github.io/)
 
 ### Invited Talks
 
