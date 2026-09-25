@@ -13,12 +13,15 @@ nav_order: 2 # comment in case you don't want this page
 
 {% include publications/bib_search.liquid %}
 
+
 ## Peer Reviewed
 <div class="publications">
 
 {% bibliography --query @*[preprint=no]* %}
 
 </div>
+
+
 
 ## PrePrint
 
