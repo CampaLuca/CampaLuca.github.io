@@ -18,3 +18,7 @@ nav_order: 2 # comment in case you don't want this page
 {% bibliography %}
 
 </div>
+
+<div class="publications">
+  {% bibliography --query @*[preprint=yes]* %}
+</div>
