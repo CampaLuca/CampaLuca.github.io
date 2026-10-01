@@ -71,7 +71,7 @@ enable_navbar_social_and_below_image: true
 ### Comment the social you don't want to add to your footer
 # -----------------------------------------------------------------------------
 # twitter: "#"
-linkedin: "luca-campa-sec"
+# linkedin: "luca-campa-sec"
 # stackoverflow: "#"
 github: "CampaLuca"
 # researchgate: "#"
