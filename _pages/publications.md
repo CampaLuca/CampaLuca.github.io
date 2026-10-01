@@ -14,7 +14,7 @@ nav_order: 2 # comment in case you don't want this page
 {% include publications/bib_search.liquid %}
 
 <br>
-## Peer Reviewed
+<h2 class="bibliography" style="color: var(--global-text-color);">Peer Reviewed</h2>
 <div class="publications">
 
 {% bibliography --query @*[preprint=no]* %}
@@ -22,7 +22,7 @@ nav_order: 2 # comment in case you don't want this page
 </div>
 <br>
 
-## PrePrint
+<h2 class="bibliography" style="color: var(--global-text-color);">Preprints</h2>
 
 <div class="publications">
   {% bibliography --query @*[preprint=yes]* %}
