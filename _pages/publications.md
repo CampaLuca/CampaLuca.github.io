@@ -14,10 +14,10 @@ nav_order: 2 # comment in case you don't want this page
 {% include publications/bib_search.liquid %}
 
 <br>
-<h2 class="bibliography" style="color: var(--global-text-color); border-top: 1px solid var(--global-divider-color);
+<h2 class="bibliography" style="color: var(--global-text-color); border-bottom: 1px solid var(--global-divider-color);
   padding-top: 1rem;
   margin-top: 2rem;
-  text-align: right;">Peer Reviewed</h2>
+  text-align: left;">Peer Reviewed</h2>
 <div class="publications">
 
 {% bibliography --query @*[preprint=no]* %}
@@ -25,10 +25,10 @@ nav_order: 2 # comment in case you don't want this page
 </div>
 <br>
 
-<h2 class="bibliography" style="color: var(--global-text-color); border-top: 1px solid var(--global-divider-color);
+<h2 class="bibliography" style="color: var(--global-text-color); border-bottom: 1px solid var(--global-divider-color);
   padding-top: 1rem;
   margin-top: 2rem;
-  text-align: right;">Preprints</h2>
+  text-align: left;">Preprints</h2>
 
 <div class="publications">
   {% bibliography --query @*[preprint=yes]* %}
